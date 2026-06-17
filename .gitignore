@@ -1,0 +1,33 @@
+# Environment variables
+.env
+.env.*
+
+# Supabase (contains migrations with secrets / local config)
+supabase/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# android app
+android-app/
+
+DELIVERY_APPROVAL_FEATURE.md
+QUICK_START.md
+frontend/THEME-GUIDELINES.md
