@@ -1,8 +1,8 @@
 # UrbanNest (Society Management Platform)
 # 🌌 UrbanNest — Enterprise Society Management Platform
-UrbanNest (formerly MyGate Alternative) is a comprehensive, multi-portal society management platform designed to streamline gate security, daily helper tracking, resident amenities, billing, and helpdesk operations. It integrates a secure **Flask (Python)** backend with a real-time **Supabase (PostgreSQL)** database and features three specialized frontend web portals.
+*UrbanNest (formerly MyGate Alternative) is a comprehensive, multi-portal society management platform designed to streamline gate security, daily helper tracking, resident amenities, billing, and helpdesk operations. It integrates a secure **Flask (Python)** backend with a real-time **Supabase (PostgreSQL)** database and features three specialized frontend web portals.
 UrbanNest (formerly MyGate Alternative) is an enterprise-grade, multi-portal security and community administration platform for modern residential complexes. The system orchestrates daily gate operations, visitor tracking, resident communications, staff shifts, amenities booking, helpdesk ticketing, and automated billing.
-It features a decoupled architecture combining a **Flask (Python 3.x)** backend with a real-time **Supabase (PostgreSQL)** database and three specialized client-side Web Portals (Admin, Guard, Resident).
+It features a decoupled architecture combining a **Flask (Python 3.x)** backend with a real-time **Supabase (PostgreSQL)** database and three specialized client-side Web Portals (Admin, Guard, Resident).*
 ---
 ## 🏗️ System Architecture
 The platform follows a decoupled Client-Server architecture:
@@ -153,7 +153,7 @@ The command center for society management and committee members.
 ```
 ---
 ## ⚡ Setup & Run Instructions
-## 🛠️ Data Model (Schema Overview)
+*## 🛠️ Data Model (Schema Overview)
 The database schema, defined in [database_schema.sql](file:///Users/bhavana/Downloads/Mygate-alternative-main/database_schema.sql), consists of 35 tables. The core tables include:
 |
  Table 
@@ -271,7 +271,7 @@ The database schema, defined in [database_schema.sql](file:///Users/bhavana/Down
 , 
 `auth.users(triggered_by)`
 |
----
+---*
 ## ⚡ Setup & Installation
 ### 1. Prerequisites
 Ensure you have Python 3.10+ installed.
