@@ -3,7 +3,7 @@
 UrbanNest (formerly MyGate Alternative) is a comprehensive, multi-portal society management platform designed to streamline gate security, daily helper tracking, resident amenities, billing, and helpdesk operations. It integrates a secure **Flask (Python)** backend with a real-time **Supabase (PostgreSQL)** database and features three specialized frontend web portals.
 UrbanNest (formerly MyGate Alternative) is an enterprise-grade, multi-portal security and community administration platform for modern residential complexes. The system orchestrates daily gate operations, visitor tracking, resident communications, staff shifts, amenities booking, helpdesk ticketing, and automated billing.
 It features a decoupled architecture combining a **Flask (Python 3.x)** backend with a real-time **Supabase (PostgreSQL)** database and three specialized client-side Web Portals (Admin, Guard, Resident).
----
+
 ## 🏗️ System Architecture
 The platform follows a decoupled Client-Server architecture:
 ```mermaid
